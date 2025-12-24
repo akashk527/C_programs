@@ -9,9 +9,7 @@ int main(){
             max = arr[i];
         }
     }
-
     printf("Maximum number is: %d", max);
 
-	
 	return 0;
 }
