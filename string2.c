@@ -54,5 +54,7 @@ int main(){
 	printf("First : %c \n",string[0]);
 	printf("last : %c \n",string[len-1]);
 	
+	
+	
 	return 0;
 }
